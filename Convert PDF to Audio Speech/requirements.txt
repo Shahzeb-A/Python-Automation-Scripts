@@ -1,0 +1,5 @@
+matplotlib==3.5.1
+numpy==1.21.0
+pdfminer==20191125
+pdfminer.six==20211012
+pyttsx3==2.90
